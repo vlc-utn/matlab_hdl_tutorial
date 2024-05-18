@@ -1,0 +1,8 @@
+slprj
+*.slxc
+xsim.dir
+.Xil
+vivado.*
+hdl_prj
+ip_repo
+vivado
