@@ -1,0 +1,9 @@
+slprj
+*.slxc
+xsim.dir
+.Xil
+vivado.*
+hdl_prj
+fil*
+fpgaproj
+_vivado*
