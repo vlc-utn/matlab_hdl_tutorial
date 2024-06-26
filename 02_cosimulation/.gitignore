@@ -4,3 +4,5 @@ xsim.dir
 .Xil
 vivado.*
 hdl_prj
+xsim*
+*.wdb
